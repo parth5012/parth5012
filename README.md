@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Parth! 👋
 
-<!--
-**parth5012/parth5012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Aspiring Data Scientist** and **Full-Stack Developer** passionate about building Generative AI solutions that solve real-world problems. Currently, I'm focused on bridging the gap between complex machine learning models and scalable web applications.
 
-Here are some ideas to get you started:
+### 🚀 What I’m working on:
+- **GitScout:** An AI agent helping developers find open-source opportunities tailored to their tech stack.
+- **Artify Bharat:** An AI-powered marketplace supporting local artisans through automated storytelling and verification.
+- **PlacementReady:** A platform utilizing NLP for mock interviews and ATS optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack:
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
+- **Frameworks:** Django, FastAPI, Flask, Next.js, LangChain
+- **Data Science:** RAG (Retrieval-Augmented Generation), LangGraph, SQLAlchemy, Alembic
+- **Tools:** Celery, Redis, Git, Docker
+
+### 📊 GitHub Stats:
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+
+### 🌱 Currently Learning:
+- Advanced Agentic Workflows with LangGraph
+- Scaling AI services in production environments
+
+### 🤝 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+- [Portfolio Website](https://YOUR_PORTFOLIO_URL)
+
+---
+"Building the future, one pull request at a time."
