@@ -14,8 +14,8 @@ I am an **Aspiring Data Scientist** and **Full-Stack Developer** passionate abou
 - **Tools:** Celery, Redis, Git, Docker
 
 ### 📊 GitHub Stats:
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth5012&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth5012&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning:
 - Advanced Agentic Workflows with LangGraph
@@ -23,7 +23,7 @@ I am an **Aspiring Data Scientist** and **Full-Stack Developer** passionate abou
 
 ### 🤝 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
-- [Portfolio Website](https://YOUR_PORTFOLIO_URL)
+
 
 ---
 "Building the future, one pull request at a time."
